@@ -1,9 +1,7 @@
 # JonathanVargasRoa.github.io
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-  ![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
+
+
+![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
 ![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/Plantilla-de-repositorio/readme&dt=&tid=UA-4677001-16)
 
 ## Plantilla de Documentación de Soporte y Uso de herramientas digitales - README.md
@@ -121,6 +119,3 @@ El BID no será responsable, bajo circunstancia alguna, de daño ni indemnizaci�
 i. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
 
 ii. A raíz del uso de la Herramienta Digital, incluyendo, pero sin limitación de potenciales defectos en la Herramienta Digital, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización de la Herramienta Digital.
-<p>En Contrucción.</p>
-</body>
-</html>
