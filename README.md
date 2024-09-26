@@ -16,10 +16,10 @@
 <details>
   <summary>:zap: About me!</summary>
 
-- 🔬 
 - 🦾  I love the RollerBlading!
 - 🤓  I’m currently learning everything
 - 👾  I am very curious and that is why you start studying programming
+Prueba ??????????? :((((
 
 </details>
 
@@ -100,7 +100,7 @@
 - [SemVer](https://semver.org/) version observance: ![semver](https://img.shields.io/badge/semver-2.0.0-blue)
 - amount of [Liberapay](https://liberapay.com/) donations per week: ![receives](https://img.shields.io/badge/receives-2.00%20USD%2Fweek-yellow)
 - Python package downloads: ![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
-- Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+- Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★�?brightgreen)
 - [Uptime Robot](https://uptimerobot.com) percentage: ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
 
