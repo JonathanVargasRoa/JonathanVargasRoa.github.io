@@ -1,6 +1,3 @@
-![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
-![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/Plantilla-de-repositorio/readme&dt=&tid=UA-4677001-16)
-
 <h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
 
 <p align="center">
