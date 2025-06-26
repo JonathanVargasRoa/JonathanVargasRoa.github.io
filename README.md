@@ -14,10 +14,10 @@
 <details>
   <summary>:zap: About me!</summary>
 
-- 馃  I love the RollerBlading!
-- 馃  I鈥檓 currently learning everything
-- 馃懢  I am very curious and that is why you start studying programming
- -  MM Prueba ??????????? :((((cxxc
+
+- I currently learning everything
+- I am very curious and that is why you start studying programming
+
 
 </details>
 
