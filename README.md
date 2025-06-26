@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
 
 <p align="center">
@@ -13,9 +14,9 @@
 <details>
   <summary>:zap: About me!</summary>
 
-- 🦾  I love the RollerBlading!
-- 🤓  I’m currently learning everything
-- 👾  I am very curious and that is why you start studying programming
+- 馃  I love the RollerBlading!
+- 馃  I鈥檓 currently learning everything
+- 馃懢  I am very curious and that is why you start studying programming
  -  MM Prueba ??????????? :((((cxxc
 
 </details>
@@ -75,34 +76,5 @@
 
 
 ---
-
-- [Badges o escudos](#badges-o-escudos)
-- [Descripción y contexto](#descripción-y-contexto)
-- [Guía de usuario](#guía-de-usuario)
-- [Guía de instalación](#guía-de-instalación)
-- [Cómo contribuir](#cómo-contribuir)
-- [Código de conducta](#código-de-conducta)
-- [Autor/es](#autores)
-- [Información adicional](#información-adicional)
-- [Licencia](#licencia)
-- [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
-
-
-
-- code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
-- stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
-- package manager release: ![gem](https://img.shields.io/badge/gem-2.2.0-blue)
-- status of third-party dependencies: ![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
-- static code analysis grade: ![codacy](https://img.shields.io/badge/codacy-B-green)
-- [SemVer](https://semver.org/) version observance: ![semver](https://img.shields.io/badge/semver-2.0.0-blue)
-- amount of [Liberapay](https://liberapay.com/) donations per week: ![receives](https://img.shields.io/badge/receives-2.00%20USD%2Fweek-yellow)
-- Python package downloads: ![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
-- Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★�?brightgreen)
-- [Uptime Robot](https://uptimerobot.com) percentage: ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
-
-
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_Plantilla-de-repositorio&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=EL-BID_Plantilla-de-repositorio)
-
 
 
