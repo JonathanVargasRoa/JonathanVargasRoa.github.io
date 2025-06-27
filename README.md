@@ -13,8 +13,10 @@
 
 <p align="center">
 
-<details>
+
  Acerca de Mi
+<details>
+
  
  <summary>
  
