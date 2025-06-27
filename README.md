@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img scc="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img scc="./scc/wave.gif" width="30px"></h1>
 
 <h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img scc="wave.gif" width="30px"></h1>
 
