@@ -65,10 +65,10 @@
 
 ----
  <p align="center">
-<img scc= 'https://media.giphy.com/media/xT1R9ZORSvL6jtqOeQ/giphy.gif' width='200'/>
-<img scc= 'https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif' width='200'/> 
-<img scc='./scc/1.gif' width='200'/> 
-  <img scc= 'https://media.giphy.com/media/h5oagUJq9P38uUoomG/giphy.gif'width='200'/>
+<img src= 'https://media.giphy.com/media/xT1R9ZORSvL6jtqOeQ/giphy.gif' width='200'/>
+<img src= 'https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif' width='200'/> 
+<img src='./src/1.gif' width='200'/> 
+  <img src= 'https://media.giphy.com/media/h5oagUJq9P38uUoomG/giphy.gif'width='200'/>
 </p align="center"
 ----                  
 
