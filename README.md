@@ -46,7 +46,7 @@
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>
 
 
-<h3 align="left"><img src="./scc/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
 
 <div>
   
