@@ -16,7 +16,7 @@
 <details>
  Acerca de Mi
  
- </summary>
+ <summary>
  
  - I currently learning everything
 - I am very curious and that is why you start studying programming
