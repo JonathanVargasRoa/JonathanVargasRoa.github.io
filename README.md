@@ -14,7 +14,7 @@
 <p align="center">
 
 
- Acerca de Mi
+<h3 align="left">Acerca de Mi</h3>
 <details>
 
  
