@@ -9,8 +9,8 @@
 <img src= 'https://media.giphy.com/media/L61RmkXYSR92N4RuJR/giphy.gif' width='200'/>
 
 
-<img src="./src/200w.webp)
-<img src="./src/100.gif)
+<img src="./src/200w.webp"
+<img src="./src/100.gif2
 
 </p align="center">
 
