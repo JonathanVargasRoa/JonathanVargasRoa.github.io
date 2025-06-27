@@ -70,7 +70,7 @@
 <img src= 'https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif' width='200'/> 
 <img src='./src/1.gif' width='200'/> 
   <img src= 'https://giphy.com/gifs/newspaper-baboon-office-monkey-3o85xC73J7y0c9wJWM' width='200'/>
-</p align="center"
+<p align="center">
 ----                  
 
 <h1 align="center"> Nombre de la herramienta</h1>
