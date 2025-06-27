@@ -11,9 +11,11 @@
 
 <img src="./src/200w.webp)
 <img src="./src/100.gif)
+
 </p align="center">
+
 <details>
-  <summary>:zap: About me!</summary>
+ Acerca de Mi!</summary>
 
 
 - I currently learning everything
