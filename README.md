@@ -17,8 +17,7 @@
 <h3 align="left">Acerca de Mi</h3>
 <details>
 
- 
- <summary>
+  <summary>
  
  - I currently learning everything
 - I am very curious and that is why you start studying programming
@@ -57,7 +56,10 @@
 </div>
 ----
 
-![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img  src="https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
+	alt="example" />
+<p align="center">
 
  ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JonathanVargasRoa&theme=blueberry)
  
