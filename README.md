@@ -11,7 +11,7 @@
 <img src="./src/200w.webp" width= '200'/>
 <img src="./src/100.webp" width= '200'/>
 
-</p align="center">
+<p align="center">
 
 <details>
  Acerca de Mi
