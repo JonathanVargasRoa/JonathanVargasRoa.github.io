@@ -7,12 +7,11 @@
 <img src= 'https://media.giphy.com/media/3oFzmkNclul1fpMSC4/giphy.gif' width= '200'/>
 <img src= 'https://media.giphy.com/media/PQVRjWcnWOD6fYIMKP/giphy.gif' width='200'/> 
 <img src= 'https://media.giphy.com/media/L61RmkXYSR92N4RuJR/giphy.gif' width='200'/>
+
+
+<img src="./src/200w.webp)
+<img src="./src/100.gif)
 </p align="center">
-
-
-[](src/200w.webp)
-[](src/100.gif)
-
 <details>
   <summary>:zap: About me!</summary>
 
