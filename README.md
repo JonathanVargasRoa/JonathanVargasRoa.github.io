@@ -1,17 +1,17 @@
 
-<h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img scc="./src/wave.gif" width="30px"></h1>
 
-<h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img src="wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img scc="wave.gif" width="30px"></h1>
 
 <p align="center">
-<img src= 'https://media.giphy.com/media/3oFzmkNclul1fpMSC4/giphy.gif' width= '200'/>
-<img src= 'https://media.giphy.com/media/PQVRjWcnWOD6fYIMKP/giphy.gif' width='200'/> 
-<img src= 'https://media.giphy.com/media/L61RmkXYSR92N4RuJR/giphy.gif' width='200'/>
+<img scc= 'https://media.giphy.com/media/3oFzmkNclul1fpMSC4/giphy.gif' width= '200'/>
+<img scc= 'https://media.giphy.com/media/PQVRjWcnWOD6fYIMKP/giphy.gif' width='200'/> 
+<img scc= 'https://media.giphy.com/media/L61RmkXYSR92N4RuJR/giphy.gif' width='200'/>
 </p align="center">
 
 
-[](src/200w.webp)
-[](src/100.gif)
+[](scc/200w.webp)
+[](scc/100.gif)
 
 <details>
   <summary>:zap: About me!</summary>
@@ -43,7 +43,7 @@
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>
-</p align="center">
+
 
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
 
