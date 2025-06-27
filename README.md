@@ -45,12 +45,12 @@
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>
 
 
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+<h3 align="left"><img scc="./scc/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
 
 <div>
-  <a href="https://github.com/JonathanVargasRoa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanVargasRoa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanVargasRoa&layout=compact&langs_count=7&theme=radical"/>
+  
+  <img height="180em" scc="https://github-readme-stats.vercel.app/api?username=JonathanVargasRoa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" scc="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanVargasRoa&layout=compact&langs_count=7&theme=radical"/>
 </div>
 ----
 
@@ -59,16 +59,16 @@
  ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JonathanVargasRoa&theme=blueberry)
  
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  scc="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
 ----
  <p align="center">
-<img src= 'https://media.giphy.com/media/xT1R9ZORSvL6jtqOeQ/giphy.gif' width='200'/>
-<img src= 'https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif' width='200'/> 
-<img src='./src/1.gif' width='200'/> 
-  <img src= 'https://media.giphy.com/media/h5oagUJq9P38uUoomG/giphy.gif'width='200'/>
+<img scc= 'https://media.giphy.com/media/xT1R9ZORSvL6jtqOeQ/giphy.gif' width='200'/>
+<img scc= 'https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif' width='200'/> 
+<img scc='./src/1.gif' width='200'/> 
+  <img scc= 'https://media.giphy.com/media/h5oagUJq9P38uUoomG/giphy.gif'width='200'/>
 </p align="center"
 ----                  
 
