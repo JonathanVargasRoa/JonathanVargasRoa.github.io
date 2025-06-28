@@ -14,14 +14,16 @@
 <div>
 
 
-<h3 align="left">Acerca de Mi</h3>
+<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> Acerca de Mi</h3>                                                  
 
-  <summary>
+
+
+ 
  <details>
-- I currently learning everything
-- I am very curious and that is why you start studying programming
+<h3 align="left"><summary> I currently learning everything  </summary>
+<h3 align="left"><summary>I am very curious and that is why you start studying programming  </summary>
  </details>
- </summary>
+
 
 
 ---
