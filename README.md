@@ -57,8 +57,10 @@
 ----
 
 <p align="center">
+<div>
   <img  src="https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 	alt="example" />
+</div>
 <p align="center">
 
  ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JonathanVargasRoa&theme=blueberry)
