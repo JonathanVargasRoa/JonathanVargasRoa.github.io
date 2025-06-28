@@ -15,15 +15,14 @@
 
 
 <h3 align="left">Acerca de Mi</h3>
-<details>
 
   <summary>
- 
+ <details>
 - I currently learning everything
 - I am very curious and that is why you start studying programming
- 
+ </details>
  </summary>
-</details>
+
 
 ---
 <h3 align="left"> Languages and Tools</h3>
@@ -47,12 +46,11 @@
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>
 
 
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
-
 <div>
+<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanVargasRoa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanVargasRoa&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanVargasRoa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanVargasRoa&layout=compact&langs_count=7&theme=radical"/>
 </div>
 ----
 
