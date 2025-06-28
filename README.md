@@ -3,16 +3,15 @@
 <h1 align="center">Hola, Soy Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
 </div>
 
-
+<div>
 <p align="center">
-
 <img src= 'https://media.giphy.com/media/3oFzmkNclul1fpMSC4/giphy.gif' width= '200'/>
 <img src= 'https://media.giphy.com/media/PQVRjWcnWOD6fYIMKP/giphy.gif' width='200'/> 
 <img src= 'https://media.giphy.com/media/L61RmkXYSR92N4RuJR/giphy.gif' width='200'/>
 <img src="./src/200w.webp" width= '200'/>
 <img src="./src/100.webp" width= '200'/>
-
 <p align="center">
+</div>
 
 
 <h3 align="left">Acerca de Mi</h3>
