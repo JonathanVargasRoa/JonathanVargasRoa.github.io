@@ -1,6 +1,7 @@
 
+<div>
 <h1 align="center">Hola, Soy Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
-
+</div>
 
 
 <p align="center">
@@ -19,14 +20,14 @@
 
   <summary>
  
- - I currently learning everything
+- I currently learning everything
 - I am very curious and that is why you start studying programming
  
  </summary>
 </details>
 
 ---
-<h3 align="center"> Languages and Tools</h3>
+<h3 align="left"> Languages and Tools</h3>
 
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>                                                                                                                                
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>        
