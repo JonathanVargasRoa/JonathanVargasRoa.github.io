@@ -22,7 +22,7 @@
  <details>
 <h3 align="left"><summary> I currently learning everything  </summary>
 <h3 align="left"><summary>I am very curious and that is why you start studying programming  </summary>
- </details>
+ <details>
 
 
 
