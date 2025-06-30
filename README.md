@@ -15,11 +15,9 @@
 
 
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> Acerca de Mi</h3>                                                  
- 
- <details>
 <h3 align="left"><summary> I currently learning everything  </summary>
 <h3 align="left"><summary>I am very curious and that is why you start studying programming  </summary>
- </details>
+ 
 ---
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> Languages and Tools</h3>
 
