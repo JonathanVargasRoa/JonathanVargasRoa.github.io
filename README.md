@@ -60,5 +60,7 @@
 <img src='./src/1.gif' width='200'/> 
 <img src= 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBzb2RtcGNua3ZmZTdwYnpkdGt2dWp0dm94dmh4em5vbmZtajU4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ARrQFpc6km5eU/giphy.gif' width='200'/>
 <p align="center">
-----                  
+----               
 
+
+subir prueba 
