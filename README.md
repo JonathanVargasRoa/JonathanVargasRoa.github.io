@@ -64,3 +64,4 @@
 
 
 subir prueba 
+verificar cada linea y revisar todo las imagenes en el repositorio reemplazar aquellas que no se visualicen 
