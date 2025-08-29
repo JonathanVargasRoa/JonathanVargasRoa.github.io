@@ -57,7 +57,7 @@
 <img src= 'https://media.giphy.com/media/xT1R9ZORSvL6jtqOeQ/giphy.gif' width='200'/>
 <img src= 'https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif' width='200'/> 
 <img src='./src/1.gif' width='200'/> 
-<img src= 'https://giphy.com/gifs/heyarnold-hey-arnold-nick-splat-xUNd9FOSgUDmfVZ78I' width='200'/>
+<img src= 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmNmNmM3QxcDlsZDQxanpsbzkwYmR0dnI0d3Bqbnk0dndqM3R3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9FOSgUDmfVZ78I/giphy.gif' width='200'/>
 <p align="center">
 ----               
 
