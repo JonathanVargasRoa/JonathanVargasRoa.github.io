@@ -1,7 +1,6 @@
 
 <div>
-<h1 align="center">Hola, Soy Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
-</div>
+<h1 align="center">Hola, Soy Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1></div>
 
 <div>
 <p align="center">
@@ -17,7 +16,7 @@
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> Acerca de Mi</h3>                                                  
 <h3 align="left"><summary> I currently learning everything  </summary>
 <h3 align="left"><summary>I am very curious and that is why you start studying programming  </summary>
- 
+<h3 align="left"><summary> Me gusta el autoaprendizaje en temas de las técnologias de información y Comunicación  </summary>
 ---
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> Languages and Tools</h3>
 
