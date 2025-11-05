@@ -1,7 +1,7 @@
 
 
 <div>
-<a href="" target="_blank"> <img src="[https://img.shields.io/badge/OS-Linux-informational](https://img.shields.io/badge/Jonathan_Vargas_Roa-Ciberseguridad_Ofensiva-blue)?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>  </div>
+<a href="" target="_blank"> <img src="[(https://img.shields.io/badge/Jonathan_Vargas_Roa-Ciberseguridad_Ofensiva-blue)?]style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>  </div>
 
 
 
