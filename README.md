@@ -1,10 +1,9 @@
 
 
 <div>
-<a href="" target="_blank"> <img src="(https://img.shields.io/badge/Jonathan_Vargas_Roa-Ciberseguridad_Ofensiva-blue)?
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Jonathan_Vargas_Roa-Ciberseguridad_Ofensiva-blue?
 style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>  
 </div>
-
 
 <div>
 <h1 align="center">Hola, Soy Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1></div>
