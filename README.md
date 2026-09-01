@@ -4,8 +4,7 @@
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Jonathan_Vargas_Roa-Ciberseguridad_Ofensiva-blue? style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>  
 </div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
 
