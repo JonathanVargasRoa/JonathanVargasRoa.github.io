@@ -27,9 +27,43 @@ body {
 }
 
 .container {
+    width: 100%;
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
+}
+
+.profile-header {
+    padding: 5.5rem 0 1rem;
+    background: var(--secondary);
+}
+
+.profile-header .container {
+    display: grid;
+    gap: 1rem;
+}
+
+.profile-banner,
+.profile-wordcloud {
+    display: block;
+}
+
+.profile-banner img,
+.profile-wordcloud img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.profile-banner img {
+    max-height: 220px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.profile-wordcloud img {
+    max-height: 180px;
+    object-fit: contain;
 }
 
 /* Navbar */
@@ -514,6 +548,15 @@ body {
     justify-content: center;
 }
 
+.about-content > * {
+    min-width: 0;
+}
+
+.image-wrapper {
+    overflow: hidden;
+    border-radius: 15px;
+}
+
 .image-carousel {
     display: flex;
     gap: 1rem;
@@ -557,11 +600,16 @@ body {
 }
 
 .about-card {
+    min-width: 0;
     padding: 1.5rem;
     background: rgba(43, 188, 138, 0.1);
     border-left: 4px solid var(--primary);
     border-radius: 10px;
     transition: all 0.3s ease;
+}
+
+.about-card p {
+    overflow-wrap: anywhere;
 }
 
 .about-card:hover {
@@ -790,6 +838,18 @@ body {
 
 /* Responsive */
 @media (max-width: 768px) {
+    .profile-header {
+        padding-top: 5rem;
+    }
+
+    .profile-banner img {
+        max-height: 160px;
+    }
+
+    .profile-wordcloud img {
+        max-height: 120px;
+    }
+
     .hamburger {
         display: flex;
     }
