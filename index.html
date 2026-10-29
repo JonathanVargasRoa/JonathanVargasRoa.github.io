@@ -1,287 +1,213 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <a href="https://www.overleaf.com/read/cjnxndmzzmxq"><img src="https://raw.githubusercontent.com/Parply/Parply/master/.github/banner.png" alt="" width="100%"/></a>
-
-<p align="center">
-<a href="https://github.com/Parply/profile-wordcloud">
-<!--START_SECTION:wordcloud-->
- <p align='center'><img src='https://raw.githubusercontent.com/Parply/Parply/master/wordcloud/wordcloud.png' alt='Word cloud generated from my GitHub repositories' width='100%'/></p> 
- <!--END_SECTION:wordcloud-->
-</a>
-</p>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jonathan Vargas Roa - Analisis de Datos - Ciberseguridad Ofensiva</title>
+    <meta name="description" content="Portafolio de Jonathan Vargas Roa: ingeniería de sistemas, ciberseguridad, análisis de datos e interventoría de proyectos TIC.">
+    <meta name="theme-color" content="#101a2b">
+    <title>Jonathan Vargas Roa | Ingeniería, datos y ciberseguridad</title>
+    <link rel="preconnect" href="https://media.giphy.com" crossorigin>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 <body>
-    <!-- Navbar -->
-    <nav class="navbar">
+    <a class="skip-link" href="#main-content">Saltar al contenido</a>
+
+    <nav class="navbar" aria-label="Navegación principal">
         <div class="nav-container">
-            <div class="nav-logo">
-                <a href="#home">JVR</a>
-            </div>
-            <ul class="nav-menu">
+            <a class="nav-logo" href="#home" aria-label="Jonathan Vargas Roa, inicio">JVR<span>.</span></a>
+            <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" aria-label="Abrir menú">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu" id="primary-navigation">
                 <li><a href="#home" class="nav-link">Inicio</a></li>
-                <li><a href="#about" class="nav-link">Acerca de Mí</a></li>
+                <li><a href="#about" class="nav-link">Acerca de mí</a></li>
                 <li><a href="#skills" class="nav-link">Habilidades</a></li>
                 <li><a href="#stats" class="nav-link">Estadísticas</a></li>
+                <li><a href="#gallery" class="nav-link">Galería</a></li>
             </ul>
-            <div class="hamburger">
-                
+        </div>
     </nav>
 
-    <!-- Hero Section -->
-    <section id="home" class="hero">
-        <div class="stars"></div>
-        <div class="hero-content">
-            <div class="wave-emoji" data-aos="bounce">
-                <img src="./src/wave.gif" alt="wave">
-            </div>
-            <h1 data-aos="fade-up" data-aos-duration="1000">
-                Hola, Soy <span class="gradient-text">Jonathan Vargas Roa</span>
-            </h1>
-            <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                Ingeniero de Sistemas <span class="highlight">Analisis de Datos - Ciberseguridad Ofensiva</span>
-            </p>
-            <div class="hero-buttons" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-                <button class="btn btn-primary">Explorar Portafolio</button>
-                <button class="btn btn-secondary">Contáctame</button>
-            </div>
-            <div class="scroll-indicator">
-                <span>Desplázate para explorar</span>
-                <div class="mouse">
-                    <div class="wheel"></div>
+    <main id="main-content">
+        <section id="home" class="hero">
+            <div class="hero-glow hero-glow-one" aria-hidden="true"></div>
+            <div class="hero-glow hero-glow-two" aria-hidden="true"></div>
+            <div class="hero-content container">
+                <div class="eyebrow"><span class="status-dot"></span> Ciberseguridad · análisis de datos · proyectos TIC</div>
+                <h1>Hola, soy <span class="gradient-text">Jonathan Vargas Roa</span></h1>
+                <p class="hero-description">Conecto <span>ciberseguridad</span>, <span>análisis de datos</span> e interventoría para crear y supervisar soluciones tecnológicas confiables.</p>
+                <div class="hero-buttons">
+                    <a class="btn btn-primary" href="#about">Conoce mi experiencia <i class="fas fa-arrow-down" aria-hidden="true"></i></a>
+                    <a class="btn btn-secondary" href="https://www.linkedin.com/in/jonathan-vargas-roa-356b29185/" target="_blank" rel="noopener noreferrer">Conectemos <i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
                 </div>
+                <a class="scroll-indicator" href="#about"><span>Desliza para explorar</span><i class="fas fa-arrow-down" aria-hidden="true"></i></a>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- About Section -->
-    <section id="about" class="about">
-        <div class="container">
-            <h2 data-aos="fade-right">Acerca de Mí</h2>
-            <div class="about-content">
-                <div class="about-image" data-aos="fade-right" data-aos-duration="1000">
-                    <div class="image-wrapper">
-                        <div class="image-carousel">
-                            <img src="https://media.giphy.com/media/3oFzmkNclul1fpMSC4/giphy.gif" alt="Security">
-                            <img src="https://media.giphy.com/media/PQVRjWcnWOD6fYIMKP/giphy.gif" alt="Coding">
-                            <img src="https://media.giphy.com/media/L61RmkXYSR92N4RuJR/giphy.gif" alt="Hacker">
-                            <img src="./src/200w.webp" alt="Tech">
-                            <img src="./src/100.webp" alt="Innovation">
+        <section id="about" class="section about">
+            <div class="container">
+                <div class="section-heading">
+                    <span class="section-kicker">Perfil profesional</span>
+                    <h2>Acerca de mí</h2>
+                    <p>Experiencia técnica con enfoque en seguridad, análisis y calidad de servicios TIC.</p>
+                </div>
+
+                <div class="about-gallery" aria-label="Imágenes sobre tecnología y seguridad">
+                    <img src="https://media.giphy.com/media/3oFzmkNclul1fpMSC4/giphy.gif" alt="Animación relacionada con seguridad informática" loading="lazy">
+                    <img src="https://media.giphy.com/media/PQVRjWcnWOD6fYIMKP/giphy.gif" alt="Animación de programación" loading="lazy">
+                    <img src="https://media.giphy.com/media/L61RmkXYSR92N4RuJR/giphy.gif" alt="Animación de ciberseguridad" loading="lazy">
+                    <img src="./src/200w.webp" alt="Ilustración tecnológica" loading="lazy">
+                    <img src="./src/100.webp" alt="Ilustración de innovación" loading="lazy">
+                </div>
+
+                <article class="about-card biography">
+                    <div class="card-heading">
+                        <span class="card-icon"><i class="fas fa-user-shield" aria-hidden="true"></i></span>
+                        <div>
+                            <span class="section-kicker">Ingeniero de Sistemas</span>
+                            <h3>Experiencia y enfoque</h3>
                         </div>
                     </div>
-                </div>
-                 <div class="about-text" data-aos="fade-left" data-aos-duration="1000">
-                    <div class="about-card">
-                        <h3><i class="fas fa-lightbulb"></i> Ingeniero de Sistemas</h3>
-                        <p>Ingeniero de Sistemas con experiencia en proyectos de tecnologías de la información y las comunicaciones (TIC), con énfasis en ciberseguridad, análisis de información e interventoría técnica. He participado en el seguimiento de contratos de mesa de ayuda y mesa de servicios, verificando el cumplimiento de compromisos, condiciones técnicas, plazos y niveles de calidad. También he realizado visitas de campo, pruebas técnicas y revisión de servicios para identificar hallazgos, documentar observaciones y apoyar la mejora de los procesos.
-
-En el área de ciberseguridad, cuento con conocimientos en análisis de redes, identificación de vulnerabilidades y pruebas de seguridad —incluido pentesting—, así como en monitoreo de infraestructura y plataformas tecnológicas. Mi enfoque está orientado a evaluar riesgos, reconocer posibles debilidades y contribuir al fortalecimiento de la seguridad de los sistemas y servicios de información.
-
-En análisis y gestión de datos, tengo experiencia en la validación, organización, consolidación y revisión de información técnica, operativa y contractual. He preparado informes, conceptos, actas, presentaciones y otros productos documentales para facilitar el seguimiento de proyectos, comunicar resultados y respaldar la toma de decisiones. Asimismo, he apoyado la administración y el monitoreo de aplicaciones, la gestión de respaldos y la protección de la confidencialidad, integridad y disponibilidad de la información.
-
-En Interventoría de proyectos TIC, he apoyado la supervisión técnica de servicios tecnológicos como Ingeniero Residente, la coordinación entre equipos y contratistas, el control de obligaciones y la verificación de la calidad y continuidad de los servicios. Me desenvuelvo en actividades de seguimiento, medición y control, gestión documental, atención de requerimientos y evaluación de oportunidades de mejora durante la ejecución de los proyectos.
-
-Complemento mi experiencia con conocimientos en desarrollo web mediante Python y HTML5, manejo de plataformas CMS como Joomla, Drupal y WordPress, y experiencia con sistemas de gestión del aprendizaje (LMS), especialmente Chamilo. Me caracterizo por mi responsabilidad, organización, criterio analítico, manejo reservado de la información y disposición para colaborar con equipos multidisciplinarios. Mi objetivo es aportar soluciones prácticas que integren seguridad, análisis técnico y control efectivo para contribuir al cumplimiento y la mejora de los proyectos TIC.
-.</p>
+                    <div class="biography-copy">
+                        <p>Ingeniero de Sistemas con experiencia en proyectos de tecnologías de la información y las comunicaciones (TIC), con énfasis en ciberseguridad, análisis de información e interventoría técnica. He participado en el seguimiento de contratos de mesa de ayuda y mesa de servicios, verificando el cumplimiento de compromisos, condiciones técnicas, plazos y niveles de calidad. También he realizado visitas de campo, pruebas técnicas y revisión de servicios para identificar hallazgos, documentar observaciones y apoyar la mejora de los procesos.</p>
+                        <p>En el área de ciberseguridad, cuento con conocimientos en análisis de redes, identificación de vulnerabilidades y pruebas de seguridad —incluido pentesting—, así como en monitoreo de infraestructura y plataformas tecnológicas. Mi enfoque está orientado a evaluar riesgos, reconocer posibles debilidades y contribuir al fortalecimiento de la seguridad de los sistemas y servicios de información.</p>
+                        <p>En análisis y gestión de datos, tengo experiencia en la validación, organización, consolidación y revisión de información técnica, operativa y contractual. He preparado informes, conceptos, actas, presentaciones y otros productos documentales para facilitar el seguimiento de proyectos, comunicar resultados y respaldar la toma de decisiones. Asimismo, he apoyado la administración y el monitoreo de aplicaciones, la gestión de respaldos y la protección de la confidencialidad, integridad y disponibilidad de la información.</p>
+                        <p>En interventoría de proyectos TIC, he apoyado la supervisión técnica de servicios tecnológicos como Ingeniero Residente, la coordinación entre equipos y contratistas, el control de obligaciones y la verificación de la calidad y continuidad de los servicios. Me desenvuelvo en actividades de seguimiento, medición y control, gestión documental, atención de requerimientos y evaluación de oportunidades de mejora durante la ejecución de los proyectos.</p>
+                        <p>Complemento mi experiencia con conocimientos en desarrollo web mediante Python y HTML5, manejo de plataformas CMS como Joomla, Drupal y WordPress, y experiencia con sistemas de gestión del aprendizaje (LMS), especialmente Chamilo. Me caracterizo por mi responsabilidad, organización, criterio analítico, manejo reservado de la información y disposición para colaborar con equipos multidisciplinarios. Mi objetivo es aportar soluciones prácticas que integren seguridad, análisis técnico y control efectivo para contribuir al cumplimiento y la mejora de los proyectos TIC.</p>
                     </div>
-                <div class="about-text" data-aos="fade-left" data-aos-duration="1000">
-                    <div class="about-card">
-                        <h3><i class="fas fa-lightbulb"></i> Curiosidad Constante</h3>
-                        <p>Actualmente aprendiendo todo. Mi curiosidad por la tecnologías.</p>
-                    </div>
-                    <div class="about-card">
-                        <h3><i class="fas fa-shield-alt"></i> Autoconocimiento</h3>
-                        <p>Ciberseguridad Ofensiva - Protegiendo sistemas a través del entendimiento de vulnerabilidades.</p>
-                    </div>
-                    <div class="about-card">
-                        <h3><i class="fas fa-graduation-cap"></i> Autoaprendizaje</h3>
-                        <p>Me encanta el autoaprendizaje en temas de Tecnologías de Información y Comunicación.</p>
-                    </div>
+                </article>
+
+                <div class="strengths-grid">
+                    <article class="strength-card">
+                        <span class="card-icon"><i class="fas fa-lightbulb" aria-hidden="true"></i></span>
+                        <h3>Curiosidad constante</h3>
+                        <p>Siempre aprendiendo y explorando nuevas tecnologías.</p>
+                    </article>
+                    <article class="strength-card">
+                        <span class="card-icon"><i class="fas fa-shield-alt" aria-hidden="true"></i></span>
+                        <h3>Seguridad informática</h3>
+                        <p>Comprender las vulnerabilidades para ayudar a proteger sistemas.</p>
+                    </article>
+                    <article class="strength-card">
+                        <span class="card-icon"><i class="fas fa-graduation-cap" aria-hidden="true"></i></span>
+                        <h3>Autoaprendizaje</h3>
+                        <p>Formación continua en tecnologías de información y comunicación.</p>
+                    </article>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Skills Section -->
-    <section id="skills" class="skills">
-        <div class="container">
-            <h2 data-aos="fade-up">Lenguajes y Herramientas</h2>
-            
-            <div class="skills-grid">
-                <!-- Sistemas Operativos -->
-                <div class="skill-category" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="0">
-                    <h3>Sistemas Operativos</h3>
-                    <div class="skills-list">
-                        <div class="skill-item">
-                            <i class="fab fa-linux"></i>
-                            <span>Linux</span>
-                        </div>
-                        <div class="skill-item">
-                            <i class="fab fa-apple"></i>
-                            <span>macOS</span>
-                        </div>
-                        <div class="skill-item">
-                            <i class="fab fa-windows"></i>
-                            <span>Windows</span>
-                        </div>
-                    </div>
+        <section id="skills" class="section skills">
+            <div class="container">
+                <div class="section-heading">
+                    <span class="section-kicker">Caja de herramientas</span>
+                    <h2>Lenguajes y herramientas</h2>
+                    <p>Tecnologías y plataformas que forman parte de mi experiencia.</p>
                 </div>
-
-                <!-- Lenguajes -->
-                 <div class="skill-category" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-                    <h3>Herramientas Ofimaticas</h3>
-                    <div class="skills-list">
-                        <div class="skill-item">
-                            <i class="fab fa-Microsoft Word"></i>
-                            <span>Microsoft Word</span>
+                <div class="skills-grid">
+                    <article class="skill-category">
+                        <h3><i class="fas fa-desktop" aria-hidden="true"></i> Sistemas operativos</h3>
+                        <div class="skills-list">
+                            <div class="skill-item"><i class="fab fa-linux" aria-hidden="true"></i><span>Linux</span></div>
+                            <div class="skill-item"><i class="fab fa-apple" aria-hidden="true"></i><span>macOS</span></div>
+                            <div class="skill-item"><i class="fab fa-windows" aria-hidden="true"></i><span>Windows</span></div>
                         </div>
-                        <div class="skill-item">
-                            <i class="fab fa-Microsoft Excel"></i>
-                            <span>Microsoft Excel</span>
+                    </article>
+                    <article class="skill-category">
+                        <h3><i class="fas fa-file-alt" aria-hidden="true"></i> Ofimática y datos</h3>
+                        <div class="skills-list">
+                            <div class="skill-item"><i class="fas fa-file-word" aria-hidden="true"></i><span>Microsoft Word</span></div>
+                            <div class="skill-item"><i class="fas fa-file-excel" aria-hidden="true"></i><span>Microsoft Excel</span></div>
+                            <div class="skill-item"><i class="fas fa-file-powerpoint" aria-hidden="true"></i><span>PowerPoint</span></div>
+                            <div class="skill-item"><i class="fas fa-chart-bar" aria-hidden="true"></i><span>Power BI</span></div>
                         </div>
-                        <div class="skill-item">
-                            <i class="fas fa-Microsoft PowerPoint"></i>
-                            <span>Microsoft PowerPoint</span>
+                    </article>
+                    <article class="skill-category">
+                        <h3><i class="fas fa-code" aria-hidden="true"></i> Programación</h3>
+                        <div class="skills-list">
+                            <div class="skill-item"><i class="fab fa-python" aria-hidden="true"></i><span>Python</span></div>
+                            <div class="skill-item"><i class="fab fa-js" aria-hidden="true"></i><span>JavaScript</span></div>
+                            <div class="skill-item"><i class="fas fa-code" aria-hidden="true"></i><span>C / C++</span></div>
+                            <div class="skill-item"><i class="fas fa-chart-line" aria-hidden="true"></i><span>R</span></div>
                         </div>
-                        <div class="skill-item">
-                            <i class="fas fa-Microsoft BI"></i>
-                            <span>Microsoft BI</span>
+                    </article>
+                    <article class="skill-category">
+                        <h3><i class="fas fa-globe" aria-hidden="true"></i> Web y marcado</h3>
+                        <div class="skills-list">
+                            <div class="skill-item"><i class="fab fa-html5" aria-hidden="true"></i><span>HTML5</span></div>
+                            <div class="skill-item"><i class="fab fa-markdown" aria-hidden="true"></i><span>Markdown</span></div>
+                            <div class="skill-item"><i class="fas fa-terminal" aria-hidden="true"></i><span>Vim</span></div>
                         </div>
-                    </div>
-                </div>
-                
-                <div class="skill-category" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-                    <h3>Lenguajes de Programación</h3>
-                    <div class="skills-list">
-                        <div class="skill-item">
-                            <i class="fab fa-python"></i>
-                            <span>Python</span>
+                    </article>
+                    <article class="skill-category">
+                        <h3><i class="fas fa-cloud" aria-hidden="true"></i> Shell y DevOps</h3>
+                        <div class="skills-list">
+                            <div class="skill-item"><i class="fas fa-terminal" aria-hidden="true"></i><span>Bash</span></div>
+                            <div class="skill-item"><i class="fab fa-docker" aria-hidden="true"></i><span>Docker</span></div>
+                            <div class="skill-item"><i class="fab fa-git-alt" aria-hidden="true"></i><span>Git</span></div>
+                            <div class="skill-item"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></div>
+                            <div class="skill-item"><i class="fab fa-gitlab" aria-hidden="true"></i><span>GitLab</span></div>
                         </div>
-                        <div class="skill-item">
-                            <i class="fab fa-js"></i>
-                            <span>JavaScript</span>
-                        </div>
-                        <div class="skill-item">
-                            <i class="fas fa-code"></i>
-                            <span>C/C++</span>
-                        </div>
-                        <div class="skill-item">
-                            <i class="fas fa-chart-line"></i>
-                            <span>R</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Web & Markup -->
-                <div class="skill-category" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                    <h3>Web & Markup</h3>
-                    <div class="skills-list">
-                        <div class="skill-item">
-                            <i class="fab fa-html5"></i>
-                            <span>HTML5</span>
-                        </div>
-                        <div class="skill-item">
-                            <i class="fab fa-markdown"></i>
-                            <span>Markdown</span>
-                        </div>
-                        <div class="skill-item">
-                            <i class="fas fa-terminal"></i>
-                            <span>Vim</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Shell & Tools -->
-                <div class="skill-category" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
-                    <h3>Shell & DevOps</h3>
-                    <div class="skills-list">
-                        <div class="skill-item">
-                            <i class="fab fa-linux"></i>
-                            <span>Bash</span>
-                        </div>
-                        <div class="skill-item">
-                            <i class="fab fa-docker"></i>
-                            <span>Docker</span>
-                        </div>
-                        <div class="skill-item">
-                            <i class="fab fa-git"></i>
-                            <span>Git</span>
-                        </div>
-                        <div class="skill-item">
-                            <i class="fab fa-github"></i>
-                            <span>GitHub</span>
-                        </div>
-                        <div class="skill-item">
-                            <i class="fab fa-gitlab"></i>
-                            <span>GitLab</span>
-                        </div>
-                    </div>
+                    </article>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Stats Section -->
-    <section id="stats" class="stats">
-        <div class="container">
-            <h2 data-aos="fade-up">Estadísticas GitHub</h2>
-            <div class="stats-content" data-aos="zoom-in" data-aos-duration="1000">
-                <div class="stat-card">
-                    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanVargasRoa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
+        <section id="stats" class="section stats">
+            <div class="container">
+                <div class="section-heading">
+                    <span class="section-kicker">Actividad de código</span>
+                    <h2>Estadísticas de GitHub</h2>
+                    <p>Un resumen de mis repositorios y lenguajes más utilizados.</p>
                 </div>
-                <div class="stat-card">
-                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanVargasRoa&layout=compact&langs_count=7&theme=radical" alt="Top Languages">
+                <div class="stats-grid">
+                    <article class="stat-card">
+                        <img src="https://github-readme-stats.vercel.app/api?username=JonathanVargasRoa&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" alt="Estadísticas de actividad de GitHub de Jonathan Vargas Roa" loading="lazy">
+                    </article>
+                    <article class="stat-card">
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanVargasRoa&amp;layout=compact&amp;langs_count=7&amp;theme=radical" alt="Lenguajes más utilizados en GitHub" loading="lazy">
+                    </article>
+                </div>
+                <div class="contributions">
+                    <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Animación de contribuciones de GitHub" loading="lazy">
                 </div>
             </div>
-            <div class="contributions" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contributions">
-            </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Floating Elements -->
-    <section class="floating-elements">
-        <div class="container">
-            <div class="elements-grid" data-aos="fade-up" data-aos-duration="1000">
-                <div class="float-card" data-aos="flip-left" data-aos-duration="1500">
-                    <img src="https://media.giphy.com/media/xT1R9ZORSvL6jtqOeQ/giphy.gif" alt="Security">
+        <section id="gallery" class="section gallery">
+            <div class="container">
+                <div class="section-heading">
+                    <span class="section-kicker">Ideas en movimiento</span>
+                    <h2>Tecnología e innovación</h2>
+                    <p>Seguridad, programación e innovación como parte del día a día.</p>
                 </div>
-                <div class="float-card" data-aos="flip-left" data-aos-duration="1500" data-aos-delay="200">
-                    <img src="https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif" alt="Code">
-                </div>
-                <div class="float-card" data-aos="flip-left" data-aos-duration="1500" data-aos-delay="400">
-                    <img src="./src/1.gif" alt="Tech">
-                </div>
-                <div class="float-card" data-aos="flip-left" data-aos-duration="1500" data-aos-delay="600">
-                    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmNmNmM3QxcDlsZDQxanpsbzkwYmR0dnI0d3Bqbnk0dndqM3R3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9FOSgUDmfVZ78I/giphy.gif" alt="Innovation">
+                <div class="gallery-grid">
+                    <figure class="gallery-card"><img src="https://media.giphy.com/media/xT1R9ZORSvL6jtqOeQ/giphy.gif" alt="Animación sobre seguridad informática" loading="lazy"><figcaption>Seguridad</figcaption></figure>
+                    <figure class="gallery-card"><img src="https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif" alt="Animación sobre desarrollo de software" loading="lazy"><figcaption>Desarrollo</figcaption></figure>
+                    <figure class="gallery-card"><img src="./src/1.gif" alt="Animación tecnológica" loading="lazy"><figcaption>Tecnología</figcaption></figure>
+                    <figure class="gallery-card"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmNmNmM3QxcDlsZDQxanpsbzkwYmR0dnI0d3Bqbnk0dndqM3R3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9FOSgUDmfVZ78I/giphy.gif" alt="Animación sobre innovación" loading="lazy"><figcaption>Innovación</figcaption></figure>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
+    </main>
 
-    <!-- Footer -->
     <footer class="footer">
-        <div class="container">
-            <p>&copy; 2026 Jonathan Vargas Roa. Todos los derechos reservados.</p>
-            <div class="social-links">
-                <a href="https://github.com/JonathanVargasRoa" target="_blank">
-                    <i class="fab fa-github"></i>
+        <div class="container footer-content">
+            <p>&copy; <span id="current-year">2026</span> Jonathan Vargas Roa. Todos los derechos reservados.</p>
+            <div class="social-links" aria-label="Redes sociales">
+                <a href="https://github.com/JonathanVargasRoa" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                    <i class="fab fa-github" aria-hidden="true"></i>
                 </a>
-                <a href="https://www.linkedin.com/in/jonathan-vargas-roa-356b29185/" target="_blank">
-                    <i class="fab fa-linkedin"></i>
+                <a href="https://www.linkedin.com/in/jonathan-vargas-roa-356b29185/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                    <i class="fab fa-linkedin-in" aria-hidden="true"></i>
                 </a>
             </div>
         </div>
     </footer>
 
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
-
